@@ -1,2 +1,2 @@
 # Hamiltonian-Path
-This repository contains 4 different approaches for the Hamiltonian Path problem
+Our DAA topic is Hamiltonian Path problem and in this repository, we have the 4 different implementations of the same problem. 
